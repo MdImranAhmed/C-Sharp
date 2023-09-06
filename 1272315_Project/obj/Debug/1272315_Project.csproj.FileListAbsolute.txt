@@ -1,0 +1,15 @@
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\bin\Debug\1272315_Project.exe.config
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\bin\Debug\1272315_Project.exe
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\bin\Debug\1272315_Project.pdb
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.csproj.AssemblyReference.cache
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.csproj.SuggestedBindingRedirects.cache
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.csproj.CoreCompileInputs.cache
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.exe
+E:\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.pdb
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\bin\Debug\1272315_Project.exe.config
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\bin\Debug\1272315_Project.exe
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\bin\Debug\1272315_Project.pdb
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.csproj.AssemblyReference.cache
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.csproj.CoreCompileInputs.cache
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.exe
+E:\c#\Chsarp_homeWork\1272315_Project_SLN\1272315_Project\obj\Debug\1272315_Project.pdb
